@@ -1,0 +1,6 @@
+<import time>
+#wneljae
+<count = 1>
+while count <= 5000:
+      print('i love you', count, 'times')
+ conut += 1
